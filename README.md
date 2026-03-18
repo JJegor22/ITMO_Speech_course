@@ -1,5 +1,8 @@
-# Speech recognition and generation
-## by Egor Vorsin
-This is a repository with the results of my work on the AI Talent Hub Speech Recognition and Generation course. It is located here:
+# Assignment 1
+## Digital Signal Processing
 
-- [Personal assignments №1 (Digital Signal Processing)](https://github.com/JJegor22/ITMO_Speech_course/tree/hw_1)
+- 0a2b400e_nohash_1.wav - example of audio to go throw task 1;
+- en_report.pdf - report in English;
+- melbanks.py - .py file with solution of task 1 and class for task 2 (implementation of logarithms of Mel-scale Filterbank energies);
+- ru_report.pdf - report in Russian;
+- speech_hw1.ipynb - jupyter notebook with solution of task 2 (CNN model binary classification)
